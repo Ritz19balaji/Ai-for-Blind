@@ -1,4 +1,4 @@
-# Food-Labelling-For-Blind
+# AI-For-Blind
 Visually impaired individuals face challenges in accessing essential food labeling information in retail environments. This project aims to develop an AI-based system to assist them in retrieving product details, including nutritional content, ingredients, and allergens, using image recognition and text-to-speech (TTS) technology.
 
 # Project Objective
